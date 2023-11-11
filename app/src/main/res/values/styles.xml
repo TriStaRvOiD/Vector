@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="splashScreen" parent="Theme.Material3.DayNight">
+        <item name="android:windowBackground">@drawable/splash_screen_background</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.Material3.Button.OutlinedButton">
+    </style>
+
+</resources>
+
