@@ -7,4 +7,4 @@ Unfortunately this app currently only supports English, however this will most l
 
 ## Attribution
 
-* This app uses [mxParser]("https://github.com/mariuszgromada/MathParser.org-mXparser")
+* This app uses [mxParser](https://github.com/mariuszgromada/MathParser.org-mXparser)
